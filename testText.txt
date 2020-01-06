@@ -15,3 +15,6 @@ http://125.88.98.37:9000/test/interactsys-aaa-local/auth/loginNG.do?cid=08882015
 82000cfb5a3d3050816de9d43ce4c13a   58801829198   8703
 
 window.theTemplateIsLoading
+
+
+1111111111
