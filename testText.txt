@@ -1,0 +1,17 @@
+﻿http://192.168.6.25:9000/interactsdk/tvchat/template/index.html?tempVer=2&disNav=0&actId=jmhd-jmhd_jc-20191231100357-549&actcode=general&userId=142003
+
+http://125.88.98.37:9000/test/interactsys-aaa-local/auth/loginNG.do?cid=0888201502030580
+
+章:   预约、竞猜结算功能优化
+梁：禅道北京相关bug已解决，开始对集群加密进行测试，心跳功能合并
+毛：user-service、消息中转radies优化
+万：禅道三合一后台剩余bug修改
+谢壮：南传电信点播连续剧页面已经可以获取单集资源ID，影片点播页无法影片资源ID，继续跟进
+          湖北项目终端版本调试
+李：数据报表、北京后台三合一bug回归
+          
+
+
+82000cfb5a3d3050816de9d43ce4c13a   58801829198   8703
+
+window.theTemplateIsLoading
